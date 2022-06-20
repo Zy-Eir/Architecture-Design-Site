@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    overflow-x: hidden;
+    font-family: 'Quicksand', sans-serif;
+    background-color: antiquewhite;
+}
+
+
+.navbar-color{
+    background: black;
+    font-size: 1.35rem;
+}
+
+
+.nav-link{
+    color: white;
+}
+
+.nav-link:hover{
+    color: antiquewhite;
+    transition: background-color .75s;
+}
+
